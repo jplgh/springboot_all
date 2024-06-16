@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: sign
+  data:
+    redis:
+      host: localhost
+      port: 6379
+      password: root
+      connect-timeout: 3000
